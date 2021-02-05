@@ -3,7 +3,7 @@
 
 
 - 📚 I’am 19 years old and and I currently studying Web Developing
-- 🤔 I’am looking for opportunities...
+- 🤔 Looking for opportunities...
 
     
 
