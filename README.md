@@ -1,8 +1,8 @@
-### Hi there, I'am Luiz 👋
+### Hi there, I'm Luiz 👋
 
 
 
-- 📚 I’am 19 years old and I currently studying Web Developing
+- 📚 I'm 19 years old and I currently studying Web Developing
 - 🤔 Looking for opportunities...
 
     
