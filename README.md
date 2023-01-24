@@ -1,7 +1,7 @@
 ## Hey, wassup ? I'm Luiz 🤙🏾
 
 <div align="left">
- - I'm 21 years old and I currently studying Web Developing 📚 <br/>
+ - I'm 21 years old and I currently studying Web Development 📚 <br/>
  - I work with PHP, JavaScript, React and MySQL </br> </br>
   <img height="50px" alt="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
   <img height="50px" alt="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
