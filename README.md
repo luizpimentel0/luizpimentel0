@@ -12,6 +12,6 @@
 <br/>
 
 <div align="left">
-  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizpimentel0&layout=compact=true&theme=tokyonight&count_private=true" alt="luizpimentel0's stats"/> <br />
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=luizpimentel0&theme=tokyonight&show_icons=true&count_private=true"  alt="luizpimentel0's language stats"/>
+  <img width="400em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luizpimentel0&layout=compact=true&theme=tokyonight&count_private=true" alt="luizpimentel0's stats"/> <br />
+  <img width="400em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=luizpimentel0&theme=tokyonight&show_icons=true&count_private=true"  alt="luizpimentel0's language stats"/>
 </div>
