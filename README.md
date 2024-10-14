@@ -1,9 +1,8 @@
 ## Hey, wassup ? I'm Luiz 🤙🏾
 
 <div align="left">
- <p>I'm 22 years old and I'm a fullstack developer</p>
+ <p>I'm 23 years old and I'm a fullstack developer</p>
  <p>I start being curious about the tech world in 2019, when I did my first course in the area, since then I've been studying to improve my technical skills day by day.</p>
- <p>On my free time I like to go to hardcore shows, play some basketball, chill out with my girlfriend, friends and play with my dog. <br></p>
 
  <h3 align="left">Connect with me:</h3>
  <p align="left">
