@@ -1,7 +1,7 @@
 ## Hey, wassup ? I'm Luiz 🤙🏾
 
 <div align="left">
- <p>I'm 23 years old and I'm a fullstack developer</p>
+ <p>I'm 24 years old and I'm a software engineer</p>
  <p>I start being curious about the tech world in 2019, when I did my first course in the area, since then I've been studying to improve my technical skills day by day.</p>
 
  <h3 align="left">Connect with me:</h3>
