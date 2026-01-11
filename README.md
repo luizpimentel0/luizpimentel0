@@ -2,7 +2,7 @@
 
 <div align="left">
  <p>I'm 24 years old and I'm a software engineer</p>
- <p>I start being curious about the tech world in 2019, when I did my first course in the area, since then I've been studying to improve my technical skills day by day.</p>
+ <p>I started my career as a Fullstack Developer working with the PHP ecosystem and JavaScript. Currently, I am focused on Frontend development, specializing in Next.js, React and web performance.</p>
 
  <h3 align="left">Connect with me:</h3>
  <p align="left">
